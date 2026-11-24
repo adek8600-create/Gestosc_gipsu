@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.adek8600_create.twa",
+        "sha256_cert_fingerprints": ["98:3B:89:D2:F2:AC:2C:98:16:42:25:95:62:44:50:57:54:DE:03:84:88:16:77:FA:8B:20:4A:53:9D:E6:42:71"]
+      }
+    }]
