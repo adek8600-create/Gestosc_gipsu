@@ -1,0 +1,17 @@
+{
+  "name": "Kalkulator gęstości zawiesiny gipsu",
+  "short_name": "Gęstość gipsu",
+  "description": "Oblicza gęstość zawiesiny gipsu na podstawie masy i objętości pojemnika.",
+  "lang": "pl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e9ecef",
+  "theme_color": "#2e7d32",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
